@@ -1,13 +1,14 @@
 ---
-layout: page
+layout: about
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who is Santiago Soto
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Santiago Soto, graduated from HS in 2025 from Alexander von Humboldt School.<br>
+I'm from Santa Cruz, Bolivia, and I've lived there all my life.<br>
+Competitor in IOI, OII, and soon to be in IOAI!<br>
+I will be competing this year in: IOI, OII, and IOAI.<br>
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
 What else do you need?
 
