@@ -22,8 +22,10 @@ author: Cristian Santiago Soto Cardona
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Informatics: "informatics"
+    - AI: "ai"
+  My training:
+    - 2026: "2026"
   #Author's home: "https://deanattali.com"
 
 ################
