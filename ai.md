@@ -1,17 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Who is Santiago Soto
+title: AI
+subtitle: My AI experience
 ---
 
-My name is Santiago Soto, graduated from HS in 2025 from Alexander von Humboldt School.<br>
-I'm from Santa Cruz, Bolivia, and I've lived there all my life.<br>
-Competitor in IOI, OII, and soon to be in IOAI!<br>
-I will be competing this year in: IOI, OII, and IOAI.<br>
+After "short" but grueling weeks I spent learning tons and tons of theory for the last exam to get into the IOI Bolivia team, I got struck with this new opportunity: AI.<br>
+I couldn't let it pass, having the chance to once again represent my country in another olympiad was a once-in-a-lifetime opportunity, literally. But the thing was that the team selection was going to be in a week...<br>
+Even though I was pretty tired from studying the last few weeks, I pushed through it and studied as much as I could for AI, gaining my knowledge from kaggle and other AIs.<br>
+The exam was divided in theory and practice, I believe that I did great on the theory section, I'm not sure though since I don't have my scores. And for the practice section, for problem 1 I did ok, but for problem 2 I was very lost, I didn't knew why I couldn't get my score to decrease (as lower the score, the better it is), and it got my hopes down. When the exam ended, my mood was very down, I was sure that I wouldn't get in the team, even telling my dad that I believed that my score was too low.<br>
+But... [pending]
+Right now I'm only at the beggining, so anything new that I do related to this huge are, I will be posting them below.<br>
 
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
