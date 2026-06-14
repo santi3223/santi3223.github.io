@@ -21,11 +21,10 @@ author: Cristian Santiago Soto Cardona
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Informatics: "informatics"
-    - AI: "ai"
-  My training:
-    - 2026: "2026"
+  #Resources:
+  #  - Informatics: "informatics"
+  #  - AI: "ai"
+  My training: "training"
   #Author's home: "https://deanattali.com"
 
 ################
