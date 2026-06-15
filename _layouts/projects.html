@@ -53,11 +53,16 @@ layout: page
             </a>
         </div>
         {% endif %}
-        {% endif %}
-
         <a href="{{ project_url }}">
             <h2 class="post-title">{{ post.title | strip_html }}</h2>
         </a>
+        
+        {% if post.date %}
+        <p class="post-meta">
+            {{ post.date | date: site.date_format }}
+        </p>
+        {% endif %}
+
         {% if thumbnail != "" %}
         <div class="post-image post-image-small">
             <a href="{{ project_url }}" aria-label="Thumbnail">
