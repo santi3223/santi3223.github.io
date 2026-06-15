@@ -28,7 +28,7 @@ navbar-links:
   My activities: /activities
   #Author's home: "https://deanattali.com"
 collections:
-  act:
+  activities:
     output: true
 ################
 # --- Logo --- #
