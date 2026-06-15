@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About me
-subtitle: Who is Santiago Soto
+title: My training
 ---
 
 My name is Santiago Soto, and I graduated from HS in 2025 from Alexander von Humboldt School.<br>
