@@ -27,9 +27,9 @@ navbar-links:
   My training: "training"
   My activities: /activities
   #Author's home: "https://deanattali.com"
-  collections:
-    act:
-      output: true
+collections:
+  act:
+    output: true
 ################
 # --- Logo --- #
 ################
