@@ -6,10 +6,12 @@ layout: page
 
 
 <div class="posts-list">
-    {% assign projects_with_date = site.activities | where_exp: "item", "item.date" | sort: "date" | reverse %}
-    {% assign projects_without_date = site.activities | where_exp: "item", "item.date == nil" %}
+    {% assign collection_name = page.collection | default: "projects" %}
+    {% assign collection = site[collection_name] %}
+    
+    {% assign projects_with_date = collection | where_exp: "item", "item.date" | sort: "date" | reverse %}
+    {% assign projects_without_date = collection | where_exp: "item", "item.date == nil" %}
     {% assign sorted_projects = projects_with_date | concat: projects_without_date %}
-    {% for post in sorted_projects %}
     <article class="post-preview">
 
         {% assign project_url = post.url | absolute_url %}
