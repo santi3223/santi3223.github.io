@@ -20,7 +20,7 @@ So, as I was presenting some papers because I'm underage and traveling, I saw th
 
 As time went by, I organised those files and had lunch with my mom & brother. It looked like everything was going to be fine; so I said goodbye and went through airport security. After some time of waiting there, I checked the time of departure again, and it got **delayed 2 hours... again**. The camp opening talk would've been almost over by the time I would've gotten there, but there was nothing I could do, just wait.
 
-After the long wait, I arrived to El Alto, La Paz. This was my first time alone in an airport, at least in Cochabamba I had family and a coach to get me to the camp, but this time I had to do everything.
+After the long wait, I arrived to El Alto, La Paz. This was my first time alone in an airport, at least in Cochabamba (where the 2025 camp took place), I had a coach that could get me to the camp, but this time I had to do everything.
 I took a taxi, and while descending from the highest city in the world, I got super tired and dizzy, doing what I could to not fall asleep.
 
 Just as I thought, I arrived very late to the camp, but from the greetings of my friends I got a little better. Our coach, Diego, was explaining some basic theory and strategies, enough for some problems that we were going to do during this week.
@@ -59,6 +59,7 @@ We had to make our code in Python, and I didn't know anything about python, so I
 
 In the final showdown, we saw all types of algorithms, like a random one that wanted to kill every other player, one that expanded like water, another that expanded a big square first and went back and forth from his domain, etc. It was so much fun! This showed that Informatics is not only about learning algorithms or complex problems, but also for some fun games too!
 
+This video shows some subrounds of a round; you can see more clearly what a subround means here, where we can see that the player who makes a big square first is starting at different corners (the colors change in every subround)
 <video class="center" width="600" autoplay loop muted playsinline>
     <source src="{{ '/assets/video/domain-expansion.mp4' | relative_url }}" type="video/mp4">
 </video>
@@ -81,5 +82,8 @@ I achieved 4th place in this contest, bringing me closer to my IOI spot. And tha
 
 <img src="/assets/img/obicamp-rank.png" class="center">
 
-Continuation
-[put link here]
+Some people from Group 2 qualified for the OII for having great scores, but since Group 1 has more experienced competitors, we also achieved great scores and qualified for the OII.
+
+After the camp, an uncle I had took care of me for a day, and the next day I got back to Santa Cruz.
+
+Continuation: [My journey in IOI](https://santi3223.github.io/activities/ioi-team/)
