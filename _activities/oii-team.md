@@ -1,10 +1,12 @@
 ---
 layout: post
-date: 2026-05-17
-title: AI
-subtitle: My AI experience
+date: 2026-04-17
+title: Iberoamerican Olympiad in Informatics
+subtitle: OII qualification
 comments: true
 ---
+
+oii
 
 After "short" but grueling weeks of learning tons and tons of theory for the last exam to get into the IOI Bolivia team, I was struck with this new opportunity: **AI**. I thought that we weren't going to do much about it because there wasn't any major training before related to this, but it finally got announced.
 

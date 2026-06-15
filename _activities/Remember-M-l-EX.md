@@ -1,10 +1,12 @@
 ---
 layout: post
-date: 2026-05-17
+date: 2026-06-13
 title: AI
 subtitle: My AI experience
 comments: true
 ---
+
+remember
 
 After "short" but grueling weeks of learning tons and tons of theory for the last exam to get into the IOI Bolivia team, I was struck with this new opportunity: **AI**. I thought that we weren't going to do much about it because there wasn't any major training before related to this, but it finally got announced.
 
