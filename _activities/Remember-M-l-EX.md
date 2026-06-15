@@ -1,8 +1,8 @@
 ---
 layout: post
 date: 2026-06-13
-title: AI
-subtitle: My AI experience
+title: Remember M l EX
+subtitle: A fun competition
 comments: true
 ---
 
