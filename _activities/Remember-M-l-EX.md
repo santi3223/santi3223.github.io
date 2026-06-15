@@ -2,7 +2,7 @@
 layout: post
 date: 2026-06-13
 title: Remember M l EX
-subtitle: A fun competition
+subtitle: fun and chill contest
 comments: true
 ---
 
