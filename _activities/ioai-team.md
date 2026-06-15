@@ -1,8 +1,8 @@
 ---
 layout: post
 date: 2026-05-17
-title: AI
-subtitle: My AI experience
+title: IOAI
+subtitle: The IOAI experience
 comments: true
 ---
 
