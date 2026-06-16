@@ -56,4 +56,4 @@ In summary of how the problems were:
 Thanks to all the focus I had given to informatics for that month, I could once again be on the IOI Bolivia team, and I will not stop studying until IOI comes.
 
 <img src="/assets/img/Clasificados-IOI-2026.jpg" width="627" height="627" class="center"/>
-The [official announcement](https://obi.org.bo/news/clasificados-ioi-2026/) is in Spanish, but Google Translate works correctly. There is also the [official instagram post](https://www.instagram.com/p/DY5-estResa/), which I reposted in my own account: [link](https://www.instagram.com/p/DZQxckFlpng)
+The [official announcement](https://obi.org.bo/news/clasificados-ioi-2026/) is in Spanish, but Google Translate works correctly. There is also the [official Instagram post](https://www.instagram.com/p/DY5-estResa/), which I reposted in my own account: [link](https://www.instagram.com/p/DZQxckFlpng)
