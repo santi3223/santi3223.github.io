@@ -9,7 +9,7 @@ layout: page
     {% assign collection_name = page.collection | default: "projects" %}
     {% assign collection = site[collection_name] %}
     
-    {% assign projects_with_date = collection | where_exp: "item", "item.date" | sort: "date" | reverse %}
+    {% assign sorted_projects = collection | sort: "order" %}
     {% assign projects_without_date = collection | where_exp: "item", "item.date == nil" %}
     {% assign sorted_projects = projects_with_date | concat: projects_without_date %}
 
