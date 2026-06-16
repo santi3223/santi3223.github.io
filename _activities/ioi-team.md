@@ -2,29 +2,38 @@
 layout: post
 date: 2026-05-09
 title: IOI
-subtitle: My journey in IOI
+subtitle: After the camp
 comments: true
 ---
 
-ioi
+After the camp, the time passed extremely fast. In summary, what I did after the end of the camp was to organize my GitHub repository, add Codeforces & Olympiad problems, and learn tons of theory.
 
-After "short" but grueling weeks of learning tons and tons of theory for the last exam to get into the IOI Bolivia team, I was struck with this new opportunity: **AI**. I thought that we weren't going to do much about it because there wasn't any major training before related to this, but it finally got announced.
+Here I will list the topics I mastered between the end of the camp and the exam day, in chronological order:
 
-I couldn't let it pass; having the chance to once again represent my country in another olympiad was a once-in-a-lifetime opportunity, literally, and also being the first time Bolivia sends a team. But the thing was that **the team selection was going to be in a week...**
+- Union-Find / Disjoint Set Union (review)
+- Order Statistic Tree / Ordered Set
+- Euler Tour with visiting order
+- Bridges
+- Articulation Points
+- Mo's algorithm
+- Minimum Spanning Trees: Prim and Kruskal (review)
+- Lazy segment tree (review)
+- Euler Totient
+- Bash w/ Stress-Testing (review)
+- Fermat's Little Theorem
+- Binary Jumping / Lifting -> LCA & k-th ancestor
+- Euler Tour with time in & out
+- Iterative Segment Tree
+- Fenwick Tree
+- Strongly Connected Components
+- Bridge-Connected Components
+- Floyd-Warshall & Bellman-Ford (review)
+- Heavy-Light Decomposition
+- Classic DP (review)
+- Chinese Remainder Theorem
+- Modular Inverses
 
-Even though I was pretty tired from studying the last few weeks, I pushed through it and studied as much as I could for AI, gaining my knowledge from Kaggle, YouTube, and other AIs.
+As you can see, the training I had was very intense. Even though some topics might seem basic, I genuinely needed to review or relearn them. Moreover, most of the concepts on this list were things I had never studied before, and mastering them was a significant part of my preparation.
 
-The exam was divided into theory and practice. I believe that I did great on the theory section; I'm not sure, though, since I don't have my scores. And for the practice section, I did ok on problem 1, but I was very lost on problem 2; I didn't know why my score wouldn't decrease (the lower the score, the better), and it brought my hopes down. When the exam ended, my mood got worse; I was sure that I wouldn't get in the team, even telling my dad that I believed that my score was too low.
-
-Half an hour passed; our coaches were still calculating the scores for each competitor, and as more time passed, the more sure I was that I didn't get in.  
-So the time has come; I entered the Google Meet where they were going to show the scores. The coaches explained how they scored each section; I didn't pay much attention to how much each participant scored, expecting the worst.
-
-Since the board was in a google sheets/excel, the names were too small; I saw that I was in 4th place, thinking I must've seen the board wrong; I zoomed in, and I was now 100% sure, **I GOT IN!!!** As I shouted out of joy with my dad next to me, they announced that I **officially** was in the **IOAI team**. This news were way better than what it looks like, thanks to also being in IOI, the chances of being sponsored was now 100% sure.
-
-<img src="/assets/img/Clasificados-IOAI-2026.jpg" width="600" height="600" class="center">
-
-After some time, our coaches announced that the competitors who got both in the IOI and IOAI team would get their plane tickets covered. And this sponsor was a huge help, since the financial situation here in Bolivia is still bad due to the monetary inflation
-
-Right now I'm only at the beginning, so anything new that I do related to this huge area, I will be posting it below.<br>
-
+# The Exam Day
 
