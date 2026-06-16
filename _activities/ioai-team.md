@@ -6,7 +6,8 @@ subtitle: The IOAI experience
 comments: true
 ---
 
-After "short" but grueling weeks of learning tons and tons of theory for the last exam to get into the IOI Bolivia team, I was struck with this new opportunity: **AI**. I thought that we weren't going to do much about it because there wasn't any major training before related to this, but it finally got announced.
+After "short" but grueling weeks of learning tons and tons of theory for the last exam to get into the IOI Bolivia team, I was struck with this new opportunity: **AI**.  
+I thought that we weren't going to do much about it because there wasn't any major training before related to this, but it finally got announced.
 
 I couldn't let it pass; having the chance to once again represent my country in another olympiad was a once-in-a-lifetime opportunity, literally, and also being the first time Bolivia sends a team. But the thing was that **the team selection was going to be in a week...**
 
