@@ -10,8 +10,6 @@ layout: page
     {% assign collection = site[collection_name] %}
     
     {% assign sorted_projects = collection | sort: "order" %}
-    {% assign projects_without_date = collection | where_exp: "item", "item.date == nil" %}
-    {% assign sorted_projects = projects_with_date | concat: projects_without_date %}
 
     {% for post in sorted_projects %}
     <article class="post-preview">
