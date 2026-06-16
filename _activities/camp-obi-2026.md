@@ -7,6 +7,8 @@ subtitle: National Informatics Camp
 comments: true
 ---
 
+test 3
+
 From April 12 to April 17, all aspirants who wanted to go to an International Olympiad, whether IOI or OII (Iberoamerican Olympiad in Informatics), took part in the OBI camp, with this edition being the second year in a row that the coaches organised it.
 
 <img src="/assets/img/horario-camp-obi" class="center">

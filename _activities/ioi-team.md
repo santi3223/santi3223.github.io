@@ -7,6 +7,8 @@ subtitle: After the camp
 comments: true
 ---
 
+test 1
+
 After the camp, the time passed extremely fast. In summary, what I did after the end of the camp was to organize my GitHub repository, add Codeforces & Olympiad problems, and learn tons of theory.
 
 Here I will list the topics I mastered between the end of the camp and the exam day, in chronological order:

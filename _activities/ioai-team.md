@@ -7,6 +7,8 @@ subtitle: The IOAI experience
 comments: true
 ---
 
+test 2
+
 After "short" but grueling weeks of learning tons and tons of theory for the last exam to get into the IOI Bolivia team, I was struck with this new opportunity: **AI**.  
 I thought that we weren't going to do much about it because there wasn't any major training before related to this, but it finally got announced.
 
