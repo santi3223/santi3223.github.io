@@ -14,7 +14,7 @@ I will officially take part in IOI and IOAI:
 - [IOI information](https://santi3223.github.io/activities/ioi-team/)
 - [IOAI information](https://santi3223.github.io/activities/ioai-team/)
 
-=======================================================================
+**=================================================================================**
 
 
 [This repository](https://github.com/santi3223/Preseleccion-IOI-2026) contains my solutions, notes, and practice materials developed since the start of **2026** as part of my preparation for the **IOI**, **IOAI**, and other programming competitions.
@@ -31,7 +31,7 @@ The solved problems in this repository come from various platforms, including:
 
 Some files may appear duplicated because certain problems are referenced across multiple platforms.
 
-To simplify navigation, the file:
+To simplify navigation, the folder
 
 `Z - Complete List`
 
@@ -50,6 +50,8 @@ For USACO problems in the complete list, the prefix indicates the section of the
 `2B` = Silver  
 `3B` = Gold  
 `4P` = Platinum
+
+**The count of the submissions at the start comes from the size of this file**
 
 ## Codeforces Difficulty Distribution
 
@@ -85,7 +87,7 @@ On Codeforces, problem ratings generally indicate relative difficulty, with high
 
 This distribution reflects my progression from solving beginner-level problems to more advanced ones.
 
-Most problems with an N/A rating come from big competition rounds (Provincial, Regional, State, and Final stages), like ICPC contests, training camps, and other sources that do not assign Codeforces-style ratings.
+Most problems with an N/A rating come from major competition rounds (Provincial, Regional, State, and Final stages), such as ICPC contests, training camps, and other sources that do not assign Codeforces-style ratings.
 
 | Source | Count | Distribution |
 |-----:|------:|:-------------|
