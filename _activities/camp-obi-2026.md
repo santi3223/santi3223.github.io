@@ -61,13 +61,15 @@ During the afternoon, we went to a very big park right next to where we were sta
 
 > Lin, Me, Gabriel, Ariel, and Nico eating choripanes
 
-And during the night, Diego organised a very fun game: [Domain Expansion](https://github.com/diegoPenguino/Domain-Expansion). A round has 4 players, every player starts from a corner, and the one who expanded more his territory/domain won, for example if you have a hollow square but every side is yours, then the inside is also yours; A player can die if they want to expand their domain in an already captured position, and 2 or more players can kill each other if they want to expand to the same position.
+And during the night, Diego organised a very fun game: [Domain Expansion](https://github.com/diegoPenguino/Domain-Expansion). A round has 4 players, every player starts from a corner, and the one who expanded more his territory/domain won, for example if you have a hollow square but every side is yours, then the inside is also yours; A player can die if they want to expand their domain in an already captured position, and 2 or more players can kill each other if they want to expand to the same position at the same time.
 
 We had to make our code in Python, and I didn't know anything about python, so I basically learnt it while coding it, you could ask an AI to help you fix some errors, but not to have another expansion strategy. Each round was composed of 24 subrounds; this was to make it fair by making each player start in every possible permutation of corners.
 
 In the final showdown, we saw all types of algorithms, like a random one that wanted to kill every other player, one that expanded like water, another that expanded a big square first and went back and forth from his domain, etc. It was so much fun! This showed that Informatics is not only about learning algorithms or complex problems, but also for some fun games too!
 
-> This video shows some subrounds of a round; you can see more clearly what a subround means here, where we can see that the player who makes a big square first is starting at different corners (the colors change in every subround)
+> This video shows 3 subrounds of a round  
+> You can see more clearly what a subround means here:  
+> The player who makes a big square first starts at different corners (you have a different color depending on your starting corner, so this player is green first, then blue, and then red)
 <video class="center" width="600" autoplay loop muted playsinline>
     <source src="{{ '/assets/video/domain-expansion.mp4' | relative_url }}" type="video/mp4">
 </video>
