@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2026-05-17
+order: 2
 title: IOAI
 subtitle: The IOAI experience
 comments: true

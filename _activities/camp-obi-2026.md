@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2026-04-12
+order: 3
 title: OBI camp
 subtitle: National Informatics Camp
 comments: true
