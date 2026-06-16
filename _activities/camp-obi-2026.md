@@ -10,6 +10,8 @@ From April 12 to April 17, all aspirants who wanted to go to an International Ol
 
 <img src="/assets/img/horario-camp-obi" class="center">
 
+> The camp schedule
+
 I was part of group 1, the most advanced one, which included ex-competitors of IOI, and people who wanted to compete for an IOI place.
 
 ## Day 0: The nonexistent plane
@@ -51,7 +53,13 @@ During the day we learnt many interesting math themes that enter informatics in 
 During the afternoon, we went to a very big park right next to where we were staying (10 minutes walking). During our time there, we played frisbee, escalated a huge slide back and forth, ate choripanes (grilled chorizo sausage served in crusty bread, like a hot dog), parkoured, and played tag.
 
 <img src="/assets/img/camp-parque.jpeg" class="center">
-<img src="/assets/img/choripan.jpeg" class="center">
+
+> Photo with every camp competitor  
+
+
+<img src="/assets/img/choripan2.jpeg" height="750" class="center">
+
+> Lin, Me, Gabriel, Ariel, and Nico eating choripanes
 
 And during the night, Diego organised a very fun game: [Domain Expansion](https://github.com/diegoPenguino/Domain-Expansion). A round has 4 players, every player starts from a corner, and the one who expanded more his territory/domain won, for example if you have a hollow square but every side is yours, then the inside is also yours; A player can die if they want to expand their domain in an already captured position, and 2 or more players can kill each other if they want to expand to the same position.
 
@@ -85,6 +93,12 @@ I achieved 4th place in this contest, bringing me closer to my IOI spot. And tha
 
 Some people from Group 2 qualified for the OII for having great scores, but since Group 1 has more experienced competitors, we also achieved great scores and qualified for the OII.
 
+<img src="/assets/img/Clasificados-OII-2026.jpg" height="780" class="center">
+
+> We have our CLASSIFIERS!  
+> After an exigent process of selection, camps and intensive trainings...  
+> These are our **15 talented students** that will represent our country in the **OII 2026**!
+
 After the camp, an uncle I had took care of me for a day, and the next day I got back to Santa Cruz.
 
-Continuation: [My journey in IOI](https://santi3223.github.io/activities/ioi-team/)
+Continuation: [IOI, after the camp](https://santi3223.github.io/activities/ioi-team/)
