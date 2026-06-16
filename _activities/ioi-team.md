@@ -7,7 +7,9 @@ subtitle: After the camp
 comments: true
 ---
 
-After the camp, the time passed extremely fast. In summary, what I did after the end of the camp was to organize my GitHub repository, add Codeforces & Olympiad problems, and learn tons of theory.
+Continuation from: [OBI camp](https://santi3223.github.io/activities/camp-obi-2026/)
+
+After the camp, the time passed extremely fast. In summary, after the camp ended, I organized my GitHub repository, added Codeforces & Olympiad problems, and learned a ton of theory.
 
 Here I will list the topics I mastered between the end of the camp and the exam day, in chronological order:
 
