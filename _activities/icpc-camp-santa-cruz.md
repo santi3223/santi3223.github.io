@@ -7,8 +7,6 @@ subtitle: Camp for icpc competitors
 comments: true
 ---
 
-test 4
-
 icpc camp
 
 

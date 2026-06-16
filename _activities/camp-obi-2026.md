@@ -7,9 +7,7 @@ subtitle: National Informatics Camp
 comments: true
 ---
 
-test 3
-
-From April 12 to April 17, all aspirants who wanted to go to an International Olympiad, whether IOI or OII (Iberoamerican Olympiad in Informatics), took part in the OBI camp, with this edition being the second year in a row that the coaches organised it.
+From April 12 to April 17, all aspirants who wanted to go to an International Olympiad, whether IOI or OII (Iberoamerican Olympiad in Informatics), took part in the OBI camp, with this edition being the second year in a row that the coaches organized it.
 
 <img src="/assets/img/horario-camp-obi" class="center">
 
@@ -23,7 +21,7 @@ As my family usually does, we went to the airport **2 hours early**, you know...
 
 So, as I was presenting some papers because I'm underage and traveling, I saw the departure time, and it got **delayed by 3 hours**. It wasn't that much; this BoA Airlines we're talking about, this always happens. To pass the time, I organized some problems to show in [my training repository](https://github.com/santi3223/Preseleccion-IOI-2026).
 
-As time went by, I organised those files and had lunch with my mom & brother. It looked like everything was going to be fine; so I said goodbye and went through airport security. After some time of waiting there, I checked the time of departure again, and it got **delayed 2 hours... again**. The camp opening talk would've been almost over by the time I would've gotten there, but there was nothing I could do but wait.
+As time went by, I organized those files and had lunch with my mom & brother. It looked like everything was going to be fine; so I said goodbye and went through airport security. After some time of waiting there, I checked the time of departure again, and it got **delayed 2 hours... again**. The camp opening talk would've been almost over by the time I would've gotten there, but there was nothing I could do but wait.
 
 After the long wait, I arrived in El Alto, La Paz. This was my first time alone in an airport, at least in Cochabamba (where the 2025 camp took place), I had a coach that could get me to the camp, but this time I had to do everything.  
 I took a taxi, and while descending from the highest city in the world, I got super tired and dizzy, doing what I could to not fall asleep.
@@ -64,7 +62,7 @@ During the afternoon, we went to a very big park right next to where we were sta
 
 > Lin, Me, Gabriel, Ariel, and Nico eating choripanes
 
-And during the night, Diego organised a very fun game: [Domain Expansion](https://github.com/diegoPenguino/Domain-Expansion). A round has 4 players, every player starts from a corner, and the one who expanded more his territory/domain won, for example if you have a hollow square but every side is yours, then the inside is also yours; A player can die if they want to expand their domain in an already captured position, and 2 or more players can kill each other if they want to expand to the same position at the same time.
+And during the night, Diego organized a very fun game: [Domain Expansion](https://github.com/diegoPenguino/Domain-Expansion). A round has 4 players, every player starts from a corner, and the one who expanded more his territory/domain won, for example if you have a hollow square but every side is yours, then the inside is also yours; A player can die if they want to expand their domain in an already captured position, and 2 or more players can kill each other if they want to expand to the same position at the same time.
 
 We had to make our code in Python, and I didn't know anything about python, so I basically learnt it while coding it, you could ask an AI to help you fix some errors, but not to have another expansion strategy. Each round was composed of 24 subrounds; this was to make it fair by making each player start in every possible permutation of corners.
 
