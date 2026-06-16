@@ -1,17 +1,23 @@
-# ~Pre~ Seleccion-IOI-2026
+---
+layout: page
+title: My training
+subtitle: An improved version of my README file on my main repo
+---
 
-**Submissions: 483**
+# [**~~Pre~~ Seleccion-IOI-2026**](https://github.com/santi3223/Preseleccion-IOI-2026)
+
+### **Submissions in this repository: 483**
 
 ## Important Info
 
-I will officially take part in IOI and IOAI
-- IOAI Bolivia Team official announcement: [link](https://www.ob-ia.org/posts/seleccin-nacional-ioai-2026/) | [instagram post](https://www.instagram.com/p/DZD_vkBA5HR/)
-- IOI Bolivia Team official announcement: [link](https://obi.org.bo/news/clasificados-ioi-2026/) | [instagram post](https://www.instagram.com/p/DY5-estResa/)
+I will officially take part in IOI and IOAI:
+- [IOI information](https://santi3223.github.io/activities/ioi-team/)
+- [IOAI information](https://santi3223.github.io/activities/ioai-team/)
 
-============================================================
+=======================================================================
 
 
-This repository contains my solutions, notes, and practice materials developed since the start of **2026** as part of my preparation for the **IOI**, **IOAI**, and other programming competitions.
+[This repository](https://github.com/santi3223/Preseleccion-IOI-2026) contains my solutions, notes, and practice materials developed since the start of **2026** as part of my preparation for the **IOI**, **IOAI**, and other programming competitions.
 
 The solved problems in this repository come from various platforms, including:
 
@@ -27,7 +33,7 @@ Some files may appear duplicated because certain problems are referenced across 
 
 To simplify navigation, the file:
 
-`z - Complete List`
+`Z - Complete List`
 
 contains an indexed list of solved problems **without duplicates**, with the platform name included at the start of each file name.
 
@@ -40,9 +46,9 @@ Olympiads - Problem Name.cpp
 ```
 
 For USACO problems in the complete list, the prefix indicates the section of the USACO Guide:<br>
-`1B` = Bronze<br>
-`2B` = Silver<be>
-`3B` = Gold<br>
+`1B` = Bronze  
+`2B` = Silver  
+`3B` = Gold  
 `4P` = Platinum
 
 ## Codeforces Difficulty Distribution
@@ -79,9 +85,7 @@ On Codeforces, problem ratings generally indicate relative difficulty, with high
 
 This distribution reflects my progression from solving beginner-level problems to more advanced ones.
 
-Most problems with an N/A rating originate from olympiads and contest rounds
-(Provincial, Regional, State, and Final stages), ICPC contests, training camps,
-and other sources that do not assign Codeforces-style ratings.
+Most problems with an N/A rating come from big competition rounds (Provincial, Regional, State, and Final stages), like ICPC contests, training camps, and other sources that do not assign Codeforces-style ratings.
 
 | Source | Count | Distribution |
 |-----:|------:|:-------------|
