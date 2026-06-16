@@ -7,8 +7,6 @@ subtitle: After the camp
 comments: true
 ---
 
-Continuation from: [OBI camp](https://santi3223.github.io/activities/camp-obi-2026/)
-
 After the camp, the time passed extremely fast. In summary, after the camp ended, I organized my GitHub repository, added Codeforces & Olympiad problems, and learned a ton of theory.
 
 Here I will list the topics I mastered between the end of the camp and the exam day, in chronological order:
@@ -67,3 +65,5 @@ Thanks to all the focus I had given to informatics for that month, I could once 
 > BOLIVIAN PRIDE AND TALENT!
 
 The [official announcement](https://obi.org.bo/news/clasificados-ioi-2026/) is in Spanish, but Google Translate works correctly. There is also the [official Instagram post](https://www.instagram.com/p/DY5-estResa/), which I reposted in my own account: [link](https://www.instagram.com/p/DZQxckFlpng)
+
+Continuation from: [OBI camp](https://santi3223.github.io/activities/camp-obi-2026/)
