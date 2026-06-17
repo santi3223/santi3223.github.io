@@ -13,12 +13,12 @@ A camp organized by:
    target="_blank">
    pacha2880
 </a>
+, from May 25 to May 29, with the purpose of bringing more university/college students into the Competitive Programming World, and having me as an invited learner (I was the only participant who was eligible for IOI).
 
 Even though I already knew most of the content covered here, I believe that it's important to go back to basics, because maybe something needed a bit more reviewing.
 
 I will be talking about what I took from each contest. The contests were ICPC-style, where we had a printed copy of all the problems available, 5 hours for each contest, and 5 hours learning the topics in the morning
 
-For some information, I was the only participant who was eligible for IOI.
 
 ## Day 1: Intro day
 
