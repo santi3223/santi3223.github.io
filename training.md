@@ -4,7 +4,7 @@ title: My training
 subtitle: An improved version of my README file on my main repo
 ---
 
-# [**~~Pre~~ Seleccion-IOI-2026**](https://github.com/santi3223/Preseleccion-IOI-2026)
+# **~~Pre~~ Seleccion-IOI-2026**
 
 ### **Submissions in this repository: 483**
 
