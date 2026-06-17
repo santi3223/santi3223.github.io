@@ -7,6 +7,20 @@ subtitle: After the camp
 comments: true
 ---
 
+This exam was the culmination of years of hard work and sacrifice, more so in the last month since the camp ended. In the end, every effort paid off... I did it.
+
+<img src="/assets/img/Clasificados-IOI-2026.jpg" width="627" height="627" class="center"/>
+
+> **IOI UZBEKISTAN 2026 QUALIFIERS!**  
+> We will represent Bolivia in the 38th International Olympiad in Informatics  
+> 
+> CONGRATULATIONS TO OUR QUALIFIERS!  
+> BOLIVIAN PRIDE AND TALENT!
+
+The [official announcement](https://obi.org.bo/news/clasificados-ioi-2026/) is in Spanish, but Google Translate works correctly. There is also the [official Instagram post](https://www.instagram.com/p/DY5-estResa/), which I reposted in my own account: [link](https://www.instagram.com/p/DZQxckFlpng)
+
+# After the camp
+
 After the camp, the time passed extremely fast. In summary, after the camp ended, I organized my GitHub repository, added Codeforces & Olympiad problems, and learned a ton of theory.
 
 Here I will list the topics I mastered between the end of the camp and the exam day, in chronological order:
@@ -44,7 +58,7 @@ The only thing that I could've done better was to practice more virtual contests
 This is the best I could've done with the time I had since the camp ended.
 
 Thanks to this strategy, I achieved 3rd place, breaking my limits like I never did before.
-> All future OII Bolivia competitors were invited
+> All future OII Bolivia competitors were invited'
 <img src="/assets/img/obi-ioi-rank.jpeg" width="700" class="center"/>
 
 In summary of how the problems were:
@@ -55,15 +69,5 @@ In summary of how the problems were:
 - fibonacci used the Fibonacci sequence for some interesting properties.
 
 Thanks to all the focus I had given to informatics for that month, I could once again be on the IOI Bolivia team, and I will not stop studying until IOI comes.
-
-<img src="/assets/img/Clasificados-IOI-2026.jpg" width="627" height="627" class="center"/>
-
-> **IOI UZBEKISTAN 2026 QUALIFIERS!**  
-> We will represent Bolivia in the 38th International Olympiad in Informatics  
-> 
-> CONGRATULATIONS TO OUR QUALIFIERS!  
-> BOLIVIAN PRIDE AND TALENT!
-
-The [official announcement](https://obi.org.bo/news/clasificados-ioi-2026/) is in Spanish, but Google Translate works correctly. There is also the [official Instagram post](https://www.instagram.com/p/DY5-estResa/), which I reposted in my own account: [link](https://www.instagram.com/p/DZQxckFlpng)
 
 Continuation from: [OBI camp](https://santi3223.github.io/activities/camp-obi-2026/)
