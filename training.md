@@ -14,7 +14,7 @@ I will officially take part in IOI and IOAI:
 - [IOI information](https://santi3223.github.io/activities/ioi-team/)
 - [IOAI information](https://santi3223.github.io/activities/ioai-team/)
 
-**=============================================================================**
+**============================================================================**
 
 
 [This repository](https://github.com/santi3223/Preseleccion-IOI-2026) contains my solutions, notes, and practice materials developed since the start of **2026** as part of my preparation for the **IOI**, **IOAI**, and other programming competitions.
