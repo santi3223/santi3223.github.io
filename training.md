@@ -6,7 +6,7 @@ subtitle: An improved version of the README file on my main repo
 
 # **~~Pre~~ Seleccion-IOI-2026**
 
-### **Submissions in this repository: 484**
+### **Submissions in this repository: 489**
 
 ## Important Info
 
@@ -45,7 +45,7 @@ Codeforces - Problem Name.cpp
 Olympiads - Problem Name.cpp
 ```
 
-For USACO problems in the complete list, the prefix indicates the section of the USACO Guide:<br>
+For USACO problems in the complete list, the prefix indicates the section of the USACO Guide:  
 `1B` = Bronze  
 `2B` = Silver  
 `3B` = Gold  
@@ -57,7 +57,7 @@ For USACO problems in the complete list, the prefix indicates the section of the
 
 Codeforces profile: [santi3223](https://codeforces.com/profile/santi3223) (max rating: 1411)
 
-This repository currently contains **189 Codeforces problems**.
+This repository currently contains **190 Codeforces problems**.
 
 Below is a breakdown of the **Codeforces** problems I have solved in this repository by rating:
 
@@ -75,7 +75,7 @@ Below is a breakdown of the **Codeforces** problems I have solved in this reposi
 | 1600    | 15 | ███████████████ |
 | 1700    | 17 | █████████████████ |
 | 1800    | 10 | ██████████ |
-| 1900    | 14 | ██████████████ |
+| 1900    | 15 | ███████████████ |
 | 2000    | 10 | ██████████ |
 | 2100    | 4  | ████ |
 | 2200    | 3  | ███ |
