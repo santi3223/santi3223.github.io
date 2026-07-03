@@ -6,7 +6,7 @@ subtitle: An improved version of the README file on my main repo
 
 # **~~Pre~~ Seleccion-IOI-2026**
 
-### **Submissions in this repository: 505**
+### **Submissions in this repository: 516**
 
 ## Important Info
 
@@ -57,7 +57,7 @@ For USACO problems in the complete list, the prefix indicates the section of the
 
 Codeforces profile: [santi3223](https://codeforces.com/profile/santi3223) (max rating: 1411)
 
-This repository currently contains **201 Codeforces problems**.
+This repository currently contains **203 Codeforces problems**.
 
 Below is a breakdown of the **Codeforces** problems I have solved in this repository by rating:
 
@@ -70,12 +70,12 @@ Below is a breakdown of the **Codeforces** problems I have solved in this reposi
 | 1100    | 3  | ███ |
 | 1200    | 6  | ██████ |
 | 1300    | 7  | ███████ |
-| 1400    | 9  | █████████ |
+| 1400    | 10 | ██████████ |
 | 1500    | 19 | ███████████████████ |
 | 1600    | 16 | ████████████████ |
 | 1700    | 18 | ██████████████████ |
 | 1800    | 11 | ███████████ |
-| 1900    | 16 | ████████████████ |
+| 1900    | 17 | █████████████████ |
 | 2000    | 10 | ██████████ |
 | 2100    | 5  | █████ |
 | 2200    | 3  | ███ |
