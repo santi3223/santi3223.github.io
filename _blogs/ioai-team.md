@@ -2,7 +2,7 @@
 layout: post
 date: 2026-05-17
 order: 2
-title: IOAI selection
+title: IOAI Selection
 comments: true
 ---
 
