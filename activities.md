@@ -1,6 +1,6 @@
 ---
-title: My activities
+title: My blogs
 layout: projects
-collection: activities
-permalink: /activities/
+collection: blogs
+permalink: /blogs/
 ---
