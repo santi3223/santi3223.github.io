@@ -6,7 +6,7 @@ subtitle: An improved version of the README file on my main repo
 
 # **~~Pre~~ Seleccion-IOI-2026**
 
-### **Submissions in this repository: 516**
+### **Submissions in this repository: 532**
 
 ## Important Info
 
@@ -15,6 +15,8 @@ I will officially take part in IOI and IOAI:
 - [IOAI information](https://santi3223.github.io/activities/ioai-team/)
 
 **============================================================================**
+
+*Last updated: July 5, 2026*
 
 
 [This repository](https://github.com/santi3223/Preseleccion-IOI-2026) contains my solutions, notes, and practice materials developed since the start of **2026** as part of my preparation for the **IOI**, **IOAI**, and other programming competitions.
@@ -57,7 +59,7 @@ For USACO problems in the complete list, the prefix indicates the section of the
 
 Codeforces profile: [santi3223](https://codeforces.com/profile/santi3223) (max rating: 1411)
 
-This repository currently contains **203 Codeforces problems**.
+This repository currently contains **206 Codeforces problems**.
 
 Below is a breakdown of the **Codeforces** problems I have solved in this repository by rating:
 
@@ -71,7 +73,7 @@ Below is a breakdown of the **Codeforces** problems I have solved in this reposi
 | 1200    | 6  | ██████ |
 | 1300    | 7  | ███████ |
 | 1400    | 10 | ██████████ |
-| 1500    | 19 | ███████████████████ |
+| 1500    | 22 | ██████████████████████ |
 | 1600    | 16 | ████████████████ |
 | 1700    | 18 | ██████████████████ |
 | 1800    | 11 | ███████████ |
