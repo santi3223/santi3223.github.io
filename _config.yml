@@ -25,7 +25,7 @@ navbar-links:
   #  - Informatics: "informatics"
   #  - AI: "ai"
   My training: "training"
-  My activities: /activities
+  My blogs: "blogs"
   #Author's home: "https://deanattali.com"
 collections:
   activities:
