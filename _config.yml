@@ -28,7 +28,7 @@ navbar-links:
   My blogs: /blogs
   #Author's home: "https://deanattali.com"
 collections:
-  activities:
+  blogs:
     output: true
 ################
 # --- Logo --- #
