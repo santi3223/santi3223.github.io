@@ -2,7 +2,7 @@
 layout: post
 date: 2026-05-09
 order: 1
-title: IOI
+title: IOI Selection
 subtitle: After the camp
 comments: true
 ---
